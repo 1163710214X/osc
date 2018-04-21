@@ -1,6 +1,6 @@
-OSC: Operator Splitting for Control
+OSC: Operator Splitting for Control 算子分裂控制
 ===========================================================
-A C package for solving optimal control problems quickly.
+A C package for solving optimal control problems quickly. 快速解决优化控制问题
 
 based on:  
 [A Splitting Method for Optimal Control](http://www.stanford.edu/~boyd/papers/oper_splt_ctrl.html)  
@@ -15,7 +15,7 @@ Solves:
     over x_t, u_t t = 0, ... , T
 
 where `phi_t` terms are quadratic  
-and `psi_t` terms are arbitrary, supplied by the user in the form of a proximal operator
+and `psi_t` terms are arbitrary 任意的 , supplied by the user in the form of a proximal operator
 
 Quickstart:
 to compile all the simulations, in this directory type:
